@@ -1,0 +1,7 @@
+### Get request to /blocking route
+GET http://localhost:3000/blocking
+Accept: application/json
+
+### Get request to /non-blocking route
+GET http://localhost:3000/non-blocking
+Accept: application/json
