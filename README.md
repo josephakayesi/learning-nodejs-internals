@@ -14,6 +14,7 @@ This is a repository for diving deep into NodeJS internals.
 - [x] Dive deep into multiprocessing using `cluster` module in NodeJS
 - [x] Learn about Streams
 - [ ] Asynchronous Task Handling
+- [ ] Dive deep into JavaScript Hoisting
 
 ### Resources
 
